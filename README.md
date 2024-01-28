@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [shubhamporfolio.netlify.app/](shubhamporfolio.netlify.app/)
 
-- 💬 Ask me about **Java,React,nodejs,mongodb**
+- 💬 Ask me about **Java,React,nodejs,mongodb,Mysql**
 
 - 📫 How to reach me **Shubhampadule22@gmail.com**
 
